@@ -12,7 +12,7 @@ performance, and security testing methodologies
 ![image](https://github.com/user-attachments/assets/3b49f5d0-83d7-4c0e-a260-132ac903ce66)
 ![image](https://github.com/user-attachments/assets/523bc4b6-ddaf-4842-999d-ea1c5f2ae785)
 
-#Stress Test picture for task 2
+#Stress Test picture for task 1
 ![image](https://github.com/user-attachments/assets/626e6692-fcb2-4a2d-afc8-3a7efadf6dca)
 ![image](https://github.com/user-attachments/assets/f4202376-06d8-4c59-80d9-55f6f305505e)
 
