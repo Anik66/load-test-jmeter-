@@ -6,7 +6,7 @@ payment integration, and compliance using functional, integration,
 performance, and security testing methodologies
 
 # Techonology Uesd
-- jemeter
+- jmeter
 - Google sheet
   
 # Load Test Picture for task1
